@@ -1,4 +1,4 @@
-데이터베이스: mysql 서버: Apache Tomcat 9.0버전 (이클립스사용)
+데이터베이스: mysql 서버: Apache Tomcat 9.0버전 
 ![BBS1](https://github.com/user-attachments/assets/ff2169d9-b6e7-4acd-8da6-a5ede5806457)
 ![BBS2](https://github.com/user-attachments/assets/7a7bc434-a933-4232-b30b-5c708cacc016)
 ![BBS3](https://github.com/user-attachments/assets/1f518c82-3562-49e5-a8fd-f5b5bbacb7b6)
